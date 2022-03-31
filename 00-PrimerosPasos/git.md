@@ -23,6 +23,7 @@ Ingreso a <https://git-scm.com> y descargo la útlima versión.
 <p> Clickeamos “Next” hasta que llegamos a esta parte: </p><br />
 
 <img src="./img/2.png">
+
 <p></p><br />
 
 <p> En este momento de la instalación si quieren pueden elegir el editor de texto que van a usar. (Importante, ténganlo instalado antes de instalar Git) </p><br />
